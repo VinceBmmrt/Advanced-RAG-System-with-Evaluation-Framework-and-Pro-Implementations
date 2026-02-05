@@ -1,5 +1,10 @@
 # 🧠 Advanced RAG System with Evaluation Framework
 
+![RAG Evaluator](demo/rag%20evaluator.png)
+![RAG Evaluator 2](demo/rag%20evaluator%202.png)
+
+
+
 ## 📌 Vue d'ensemble
 
 Système RAG (Retrieval-Augmented Generation) avancé avec techniques d'optimisation et framework d'évaluation complet. Implémente le query rewriting, le reranking, et des métriques de performance pour garantir la qualité des réponses.
