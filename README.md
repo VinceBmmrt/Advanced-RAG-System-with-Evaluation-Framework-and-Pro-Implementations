@@ -8,6 +8,8 @@
 ## 📌 Vue d'ensemble
 
 Système RAG (Retrieval-Augmented Generation) avancé avec techniques d'optimisation et framework d'évaluation complet. Implémente le query rewriting, le reranking, et des métriques de performance pour garantir la qualité des réponses.
+Ce repository contient plusieurs implémentations : une version simple avec LangChain, et une version plus avancée en Python natif, utilisant des techniques avancées telles que le découpage sémantique des chunks, la sélection du meilleur modèle d’encodage sur un jeu de test, le pré-traitement des documents avec un LLM pour préparer les chunks ou le texte à encoder, la réécriture des requêtes pour convertir la question de l’utilisateur en requête RAG, et le reranking avec un LLM pour sélectionner les résultats RAG les plus pertinents.
+
 
 ## 🏗️ Architecture
 ```
